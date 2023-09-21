@@ -13,4 +13,4 @@ curr_year = dt.datetime.now().year
 
 # prepare and display output
 birth_year = int(curr_year) - int(age)
-print("Hello ",user_name,"!\n Hmmm... were you born in", birth_year, ".")
+print("Hello ",user_name,"!\n Hmmm... were you born in", birth_year, "?\n:3")
